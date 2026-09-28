@@ -112,3 +112,11 @@
 .contenido-contacto li:last-child {
     margin-bottom: 0;
 }
+.galeriaimg-producto{
+    
+    display: flex;
+     
+  gap: 20px; 
+  
+  padding: 20px;
+}
